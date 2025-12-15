@@ -1,0 +1,4 @@
+scenario_id,scenario_name,description,is_active
+1,60/40 No Crypto,Traditional SPY + Gold,1
+2,55/35/10 BTC,Add 10% BTC to 60/40,1
+3,50/30/20 BTC+ETH,20% crypto split between BTC & ETH,1
